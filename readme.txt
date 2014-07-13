@@ -8,6 +8,8 @@ Contributors: stueynet
 Requires at least: 3.5
 Tested up to: 3.9.1
 Stable tag: trunk
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl.html
 
 Create plugin collections and install them in one click on any WordPress site.
 
@@ -27,9 +29,7 @@ WPCore is a tool that allows you to manage collections of WordPress plugins and 
 
 == Frequently Asked Questions ==
 
-Do I need an account at WPCore.com to use this plugin?
-* Nope. You can create collections with no account. However to keep control over your collections and edit them you will need to have an account. Any collections you make as a guest will be added to your account once you register. Any collections made as a guest will always be available for use within the Plugin.
-
+You'll find the [FAQ on WPcore.com](https://http://wpcore.com/help).
 
 == Changelog ==
 

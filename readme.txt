@@ -33,6 +33,9 @@ You'll find the [FAQ on WPcore.com](https://http://wpcore.com/help).
 
 == Changelog ==
 
+= 1.2.1 =
+* Updated readme again (sorry)
+
 = 1.2 =
 * Updated readme
 

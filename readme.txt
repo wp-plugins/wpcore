@@ -29,9 +29,12 @@ WPCore is a tool that allows you to manage collections of WordPress plugins and 
 
 == Frequently Asked Questions ==
 
-You'll find the [FAQ on WPcore.com](https://http://wpcore.com/help).
+You'll find the [FAQ on WPcore.com](http://wpcore.com/help).
 
 == Changelog ==
+
+= 1.2.2 =
+* Updated readme again (sorry)
 
 = 1.2.1 =
 * Updated readme again (sorry)

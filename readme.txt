@@ -1,7 +1,10 @@
 === WPCore ===
+Plugin Name: WPCore
+Plugin URI: http://wpcore.com
+Tags: wp, plugins, installation, admin, administration, install, wpcore, plugin collections, plugin groups, plugin manager, bulk plugin installer
+Author URI: http://wpcore.com
+Author: Stuart Starr
 Contributors: stueynet
-Tags: wpcore,plugins,bulk,install,bulk plugin installer
-Donate link: http://wpcore.com
 Requires at least: 3.5
 Tested up to: 3.9.1
 Stable tag: trunk

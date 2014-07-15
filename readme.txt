@@ -31,6 +31,11 @@ WPCore is a tool that allows you to manage collections of WordPress plugins and 
 
 You'll find the [FAQ on WPcore.com](http://wpcore.com/help).
 
+== Screenshots ==
+
+1. Create plugin collections at wpcore.com
+2. Install them instantly on any WordPress site.
+
 == Upgrade Notice ==
 Fixed bug that caused all the assets on the WordPress.org SVN to go missing. All good now.
 

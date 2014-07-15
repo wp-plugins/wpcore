@@ -7,7 +7,7 @@ Author: Stuart Starr
 Contributors: stueynet
 Requires at least: 3.5
 Tested up to: 3.9.1
-Stable tag: 1.2.5
+Stable tag: 1.2.6
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -32,6 +32,9 @@ WPCore is a tool that allows you to manage collections of WordPress plugins and 
 You'll find the [FAQ on WPcore.com](http://wpcore.com/help).
 
 == Changelog ==
+
+= 1.2.6 =
+* Fixed bug that killed on the assets on the WordPress.org SVN. All good now.
 
 = 1.2.2 =
 * Updated readme again (sorry)

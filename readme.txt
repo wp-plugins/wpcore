@@ -31,10 +31,14 @@ WPCore is a tool that allows you to manage collections of WordPress plugins and 
 
 You'll find the [FAQ on WPcore.com](http://wpcore.com/help).
 
+== Upgrade Notice ==
+Fixed bug that caused all the assets on the WordPress.org SVN to go missing. All good now.
+
+
 == Changelog ==
 
 = 1.2.6 =
-* Fixed bug that killed on the assets on the WordPress.org SVN. All good now.
+* Fixed bug that caused all the assets on the WordPress.org SVN to go missing. All good now.
 
 = 1.2.2 =
 * Updated readme again (sorry)

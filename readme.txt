@@ -38,7 +38,7 @@ You'll find the [FAQ on WPcore.com](http://wpcore.com/help).
 
 
 == Changelog ==
-= 1.4.4 =
+= 1.4.5 =
 * Switched to ssl. Changed timeout.
 
 = 1.4.0 =

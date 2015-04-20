@@ -6,7 +6,7 @@ Author URI: https://wpcore.com
 Author: Stuart Starr
 Contributors: stueynet
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: trunk
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html

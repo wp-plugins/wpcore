@@ -16,6 +16,7 @@ Create plugin collections and install them in one click on any WordPress site.
 == Description ==
 WPCore is a tool that allows you to manage collections of WordPress plugins and then quickly install them on any WordPress site. You can generate your collections at https://wpcore.com and then import them to your WordPress site by copying and pasting your unique collection key in WordPress.
 
+
 == Installation ==
 1. Download the plugin via https://wpcore.com/download.
 1. Upload the ZIP file through the \"Plugins > Add New > Upload\" screen in your WordPress dashboard.

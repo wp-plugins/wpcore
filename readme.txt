@@ -39,6 +39,9 @@ You'll find the [FAQ on WPcore.com](https://wpcore.com/help).
 
 
 == Changelog ==
+= 1.6.2 =
+* Minor fix to ensure only users with the 'install_plugins' capability can see it
+
 = 1.6.0 =
 * Updated the TGM activation class to 2.4.2
 
